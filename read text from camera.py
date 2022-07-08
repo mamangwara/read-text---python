@@ -67,7 +67,7 @@ mydb = mysql.connector.connect(
   host="localhost",
   user="root",
   password="",
-  database="read_text"
+  database="project_ta"
 )
 
 mycursor = mydb.cursor()
